@@ -1,6 +1,6 @@
 
 # Credit Risk Prediction with Machine Learning
-Portfolio Project 
+## A Portfolio Project for Demonstration
 This project uses machine learning to predict credit risk based on the German Credit dataset. The objective is to classify applicants as "Good" or "Bad" credit risks and provide interpretable insights into the factors influencing these predictions. This project incorporates model training, evaluation, and interpretability techniques, making it suitable for responsible decision-making in finance.
 
 ## Project Overview
